@@ -1,6 +1,6 @@
 # Adult-Income-Census-Prediction
 
-##Domain:
+## Domain:
 Income of US Citizes, Census Bureau
 
 Objective:
@@ -81,7 +81,7 @@ Recall : 0.5483660130718955
 
 ROC AUC Score :  0.7382069905466073
 
-##Conclusion:
+## Conclusion:
 
 Finally, we forecast if a person earns more than $50,000 per year based on the dataset.
 
